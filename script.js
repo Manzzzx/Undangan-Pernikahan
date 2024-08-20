@@ -67,7 +67,6 @@ audioIconWrapper.onclick = function() {
 disableScroll();
 
 
-
 // konfirmasi form
 window.addEventListener("load", function () {
 const form = document.getElementById("my-form");
