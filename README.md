@@ -1,1 +1,1 @@
-Web masih ada perbaikan dan belum sepenuhnya selesai :D
+Masih ada perbaikan :D
